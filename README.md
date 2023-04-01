@@ -1,1 +1,3 @@
 # AWS_SAP_output
+
+IDフェデレーションとロールベースのアクセス制限は、オンプレミスのActive DirectoryとIAMロールに接続するADコネクターが必要。
