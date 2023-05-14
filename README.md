@@ -41,6 +41,6 @@ VPCピアリング : 異なるVPCを接続することができる。
 Direct connect : キャリアから調達する専用線の片端とAWSCloudをDirect Connectロケーションで接続するサービス。
 https://speakerdeck.com/recruitengineers/awsyan-xiu-amazon-snstoamazon-sqs?slide=23
 
-- system namager patch manager : パッチ適用のプロセスの自動化に奴立つ。マネージドインスタンスにパッチを適用するプロセスを自動化　https://d1.awsstatic.com/webinars/jp/pdf/services/20200212_AWSBlackBelt_SystemsManager_0214.pdf
+system namager patch manager : パッチ適用のプロセスの自動化に奴立つ。マネージドインスタンスにパッチを適用するプロセスを自動化　https://d1.awsstatic.com/webinars/jp/pdf/services/20200212_AWSBlackBelt_SystemsManager_0214.pdf
 
-- VGW : VPCに付与するもの。 単一障害点。 デュアルトンネルVPNを使用するなどして、単一障害点の問題を解決する。
+VGW : VPCに付与するもの。 単一障害点。 デュアルトンネルVPNを使用するなどして、単一障害点の問題を解決する。
