@@ -37,3 +37,5 @@ System Managerはパッチ適用のプロセスの自動化に役立つ。
 署名付きURLから「書き込み」許可を受ける。
 
 VPCピアリング : 異なるVPCを接続することができる。
+
+Direct connect : キャリアから調達する専用線の片端とAWSCloudをDirect Connectロケーションで接続するサービス。
